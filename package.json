@@ -1,0 +1,18 @@
+{
+  "name": "testing-api",
+  "version": "1.0.0",
+  "description": "The purpose of the project is to test",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Nayak",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "jwt-decode": "^3.1.2"
+  }
+}
